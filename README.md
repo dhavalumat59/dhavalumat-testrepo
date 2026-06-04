@@ -1,6 +1,6 @@
 # dhavalumat-testrepo
 <br>
-Author: Dhaval Umat
+Author: dhaval umat
 <br>
 this is a test repo 
 <br>
